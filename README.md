@@ -99,7 +99,7 @@ Add your code to do with these parameters in donext.php, such as:
 DEMO
 ====
 
-Demo will be available soon.
+Demo will be available  soon.
 
 
 COPYRIGHT
